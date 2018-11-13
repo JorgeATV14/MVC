@@ -19,6 +19,6 @@ if (isset($_REQUEST['c'])) {
 
 }
 else {
-    require_once("views/indexLista.php");
+    require_once("indexLista.php");
 }
 ?>
